@@ -2,7 +2,7 @@
 
 Interactive Data Visualizations on Worldwide COVID-19 Data
 
-## Lab Instructions:
+## Lab Instructions
   - Click [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) to open up Google Colab
   
   - Click [here](https://covid.ourworldindata.org/data/owid-covid-data.csv) to download the COVID-19 Dataset
