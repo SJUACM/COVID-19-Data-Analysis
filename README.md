@@ -1,4 +1,7 @@
 # COVID-19-Data-Analysis
+
+Open up Google Colab: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+
 Interactive Data Visualizations on Worldwide COVID-19 Data
 
 ### Example Visualization
