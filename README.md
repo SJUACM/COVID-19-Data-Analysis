@@ -2,9 +2,9 @@
 
 Interactive Data Visualizations on Worldwide COVID-19 Data
 
-## Lab Instructions
+# To view the code:
 
-  - Open up Google Colab by clicking [here](https://colab.research.google.com/github/SJUACM/COVID-19-Data-Analysis/blob/main/SJU_ACM_Data_Analytics_Lab.ipynb)
+  - Open up Google Colab by clicking [here](https://colab.research.google.com/github/SJUACM/COVID-19-Data-Analysis/blob/main/COVID_19_Data_Analysis_Lab.ipynb)
   
   - Follow the instructions from there
 
