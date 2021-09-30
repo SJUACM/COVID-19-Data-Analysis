@@ -2,7 +2,7 @@
 
 Interactive Data Visualizations on Worldwide COVID-19 Data
 
-# To view the code:
+### To view and edit the Code
 
   - Open up Google Colab by clicking [here](https://colab.research.google.com/github/SJUACM/COVID-19-Data-Analysis/blob/main/COVID_19_Data_Analysis_Lab.ipynb)
   
