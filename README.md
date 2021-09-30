@@ -9,7 +9,7 @@ Interactive Data Visualizations on Worldwide COVID-19 Data
   
   - Upload the downloaded dataset into Google Colab by clicking the File icon on the top left then click "Upload to session storage"
   
-  - Copy and paste all the code below to the first cell in Google Colab
+  - Copy all the code below and paste it in the first cell in Google Colab
   ```python
   # Necessary imports
 
