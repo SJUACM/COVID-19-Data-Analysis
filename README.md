@@ -3,9 +3,14 @@
 Interactive Data Visualizations on Worldwide COVID-19 Data
 
 ## Lab Instructions
-  - Click [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) to open up Google Colab
 
-  - Click 'New Notebook'
+  - Open up the Notebook by clicking [here](https://colab.research.google.com/github/SJUACM/COVID-19-Data-Analysis/blob/main/SJU_ACM_Data_Analytics_Lab.ipynb)
+  
+  - Open Google Colab in a new tab by clicking [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+
+  - Go to File -> Open Notebook, then click on 'GitHub'
+
+  - Copy this URL: ```https://github.com/SJUACM/COVID-19-Data-Analysis``` and paste it into the text field, then click on the magnifying glass icon
   
   - Click [here](https://covid.ourworldindata.org/data/owid-covid-data.csv) to download the COVID-19 Dataset
   
