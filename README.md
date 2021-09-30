@@ -30,6 +30,9 @@ Interactive Data Visualizations on Worldwide COVID-19 Data
   from bokeh.io import output_notebook
   from prettytable import PrettyTable
   import locale
+  import warnings
+
+  warnings.filterwarnings('ignore')
 
   # For number formatting 
   locale.setlocale(locale.LC_ALL, '') 
